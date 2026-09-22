@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> My first website </title>
+</head>
+
+<body>
+<h1> Hiiiii, My Name is Rejoice! </h1>
+<p>
+I am a Computer science student learning how to code
+</p>
+
+<h2> Bio</h2>
+<p> I am learning programming and building my skills one projct at a time
+</p>
+
+<h2> My goal </h2>
+<p> I want to become a skilled computer scientist and build useful and wonderful things with technology
+</p>
+
+</body>
+</html>
+
